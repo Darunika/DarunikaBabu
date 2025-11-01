@@ -1,4 +1,4 @@
-# # TANDEMLOOP Screening Test – Darunika Babu
+## TANDEMLOOP Screening Test – Darunika Babu
 
 ## Language Used
 Java (JDK 1.8)
